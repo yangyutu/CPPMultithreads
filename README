@@ -16,3 +16,5 @@ You could use this program under the terms of GPL v3, for more details see:
 http://www.gnu.org/copyleft/gpl.html
 
 Copyright 2011 Sol from www.solarianprogrammer.com
+
+Use g++ -std=c++11 -pthread file_name.cpp to build simple examples
